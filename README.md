@@ -2,7 +2,7 @@
 
 ### Websites with PWA for compiler topic
 
-* [Yen Blog](https://lovelessless99.github.io/coding-hub/) for AI tech articles and Practical knowledge (in Chinese).
+* [Yen Blog](https://yengogo.github.io/) for AI tech articles and Practical knowledge (in Chinese).
 
 ## 💻 Project and Goals
 
