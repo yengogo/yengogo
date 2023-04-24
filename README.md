@@ -10,19 +10,18 @@
 
 | Project Name   | Language                         | Targets |
 |----------------|----------------------------------|---------|
-| [Bert-Cls](https://github.com/yengogo/pytorch-bert-classification)      | <ul><li>Python</li><li>shell</li></ul>  | Learning how just-in-time compiler work |
+| [Bert-Cls](https://github.com/yengogo/pytorch-bert-classification)      | <ul><li>Python</li><li>shell</li></ul>  | Learning how to do cls task with Bert Model |
 | [AI_Recommend_Bot](https://github.com/lovelessless99/IEEE_754_Tutorial)| <ul><li>Python</li><li>NLP-CHATGPT、BRET、ZEROSHOT</li><li>CV-Diffusion</li></ul>                         |  Leaning Floating Point IEEE 754 format (CSAPP)  |
-| [Cpython Internal]() | <ul><li>C++</li><li>C</li><li>Python</li></ul> | Learning Cpython Internal mechanism and write a python virtual machine |
+| [Connetion Tools]() | <ul><li>C++</li><li>C</li><li>Python</li></ul> | Learning Cpython Internal mechanism and write a python virtual machine |
 
 ### 🪐 2. Side project
 
 | Project Name   | Language                         | Targets |
 |----------------|----------------------------------|---------|
-| [Network Programming](https://github.com/lovelessless99/108_Network_Programming) | <ul><li>C++</li><li>C</li></ul>  |  NCTU Networking Programming <br> <ul><li>N pipe shell</li> <li>Multiuser chatroom</li> <li>Http erver with boost library</li> <li>FTP server with boost library</li> </ul>  |
-| [Simple Netstat](https://github.com/lovelessless99/Simple_Netstat) | C                                |  Implement the netstat code and support ipv4 and ipv6 format with clean C code  |
-| [Subnet Calculator](https://github.com/lovelessless99/Subnet-Calculator) | Python                        |  Learning the subnet knowledge, and implement the subnet calculator in python       |
-| [Web-App using docker](https://github.com/lovelessless99/web_app)           | <ul><li>Docker</li><li>Typescript(Angular, frontend)</li> <li>Python(flask, backend)</li></ul>| Separation of frontend and backend, and dockerize them         |
-| [Bash Test Tool](https://github.com/lovelessless99/Bash_Test_Tool) | <ul><li>Bash</li><li>C</li></ul> |  Learning to use Bash testing tools  |
+| [SDV Technological Convergence Reseach](https://github.com/lovelessless99/108_Network_Programming) | <ul><li>Python</li></ul>  |  Analyze patents data by  using Network and NLP to find out  Technological Convergence in Self-driving vehicle  |
+| [Smart Health Technological Convergence Reseach](https://github.com/yengogo/Smarthealth) | <ul><li>Python</li></ul>                            |  Analyze patents data by  using Network and NLP to find out  Technological Convergence in Smart Health |
+| [Lens-crawler](https://github.com/yengogo/Selenium-for-Lens) | <ul><li>Python</li></ul>                      |Scraping patent data from the LENS website       |
+
 
 ### 🪐 3. Ongoing and Future Work
 
